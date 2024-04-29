@@ -1,5 +1,6 @@
 # sistema-de-pontos-ldr---arduino
 um simples sistema de pontos com ldr, esse sistema conta de 2 em 2 pontos e os mostra em um display de 7 segmentos 
+
 materias:
 
 -Arduino uno/nano REV3
