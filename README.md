@@ -17,16 +17,22 @@ materias:
 
 -Resistor de 10k OHMS
 
+-Resistor de 1k OHMS
+
 -Modulo display de 7 segmentos i2c (4 digitos)
 
+-Transistor NPN bipolar 2n2222
 
-Simulação: https://www.tinkercad.com/things/2LfmC05BGGm-baska-definitivo
+-Disco piezo eletrico
+
+
+
+Simulação:https://www.tinkercad.com/things/2LfmC05BGGm-contador-definitivo
 
 
 Screenshots:
 
 
-![Screenshot_20240429-203256_Samsung Internet](https://github.com/Golfinsstd/sistema-de-pontos-ldr---arduino/assets/165297153/b4c2a59f-243a-40cc-a63c-b55c306f493e)
 
 
 
@@ -34,5 +40,6 @@ Screenshots:
 
 
 
-![Screenshot_20240430-064310_OneDrive](https://github.com/Golfinsstd/sistema-de-pontos-ldr---arduino/assets/165297153/b752e88c-acf3-4f2c-bad7-ba15e625275f)
+
+
 
