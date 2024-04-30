@@ -7,6 +7,8 @@ https://www.adafruit.com/
 
 https://www.arduino.cc/
 
+https://www.tinkercad.com/
+
 materias:
 
 -Arduino uno/nano REV3
