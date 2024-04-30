@@ -7,7 +7,7 @@ linguagem: arduino c/c++
 */
 //biblotecas
 #include <Adafruit_LEDBackpack.h>
-#include <WIre.h>
+#include <Wire.h>
 //configuração do display 
 Adafruit_7segment cestaDP = Adafruit_7segment();
 //variaveis de pontos
