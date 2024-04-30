@@ -34,8 +34,10 @@ Screenshots:
 
 
 
+![Screenshot_20240430-182228_Samsung Internet](https://github.com/Golfinsstd/sistema-de-pontos-ldr---arduino/assets/165297153/b64409e4-11bd-4f92-8b50-5f949a58e94f)
 
 
+![Screenshot_20240430-182305_Samsung Internet](https://github.com/Golfinsstd/sistema-de-pontos-ldr---arduino/assets/165297153/3281e9e8-e258-44c1-b598-2ae4580676ed)
 
 
 
