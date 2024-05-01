@@ -19,7 +19,7 @@ materias:
 
 -Resistor de 1k OHMS
 
--Modulo display de 7 segmentos i2c (4 digitos)
+-Modulo display de 7 segmentos i2c Backpack
 
 -Transistor NPN bipolar 2n2222
 
